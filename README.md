@@ -11,11 +11,11 @@ A weather application that provides current weather information and a 5-day fore
 
 ## Demo
 
-[]
+[Here](https://weatherforecastbydex.netlify.app/)
 
 ## Screenshots
 
-[]
+![Screenshot](./img/screenshot.png)
 
 ## Installation
 
